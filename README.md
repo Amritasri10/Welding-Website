@@ -2,82 +2,60 @@
 
 **Welding Website Template** is a free, responsive, and modern template designed for welding shops, metalwork businesses, and industrial websites. Built using **React.js** and **Bootstrap 5**, this template features a professional layout, interactive UI components, and a responsive design suitable for all devices.
 
-##  Folder Structure
+---
 
-The project folder structure is as follows:
+## Features
 
-`weldork/`
-`├── public/`
-│ └── index.html # Main HTML file for the application
-├── src/
-│ ├── components/ # Reusable React components
-│ ├── pages/ # Contains all pages of the website
-│ ├── assets/ # Images and other static assets
-│ ├── App.js # Main React component
-│ ├── index.js # Entry point for the React app
-├── .gitignore # Git ignore file for unnecessary files
-├── package.json # Project dependencies and configurations
-├── README.md # Project documentation (this file)
+- Built using **React.js** (with functional components)
+- Integrated **Bootstrap 5** for responsive layout and design
+- **Sticky Top Navigation Bar** with Dropdown Menu
+- **Header Carousel** for showcasing services/highlights
+- **Back-to-Top Button** for better navigation
+- **Newsletter Subscription Form UI**
+- **404 Not Found Page**
+- **Breadcrumbs** for easy internal navigation
+- Fully **Responsive Design** for all screen sizes
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+##  Installation
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+To get started with the project, follow these steps:
 
-### `npm test`
+1. **Clone the repository**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+   ```bash
+   git clone https://github.com/Amritasri10/Welding-Website.git
+   cd Welding-Website
 
-### `npm run build`
+2. **Install Dependencies**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    ```bash
+    npm install
+    
+3. **Run the App**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+    ```bash
+     npm start
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+##  Acknowledgements
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- [Bootstrap 5](https://getbootstrap.com/)
+- [React.js](https://reactjs.org/)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [FontAwesome](https://fontawesome.com/) for icons
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com/) API for demo data
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## License
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+This project is licensed under the MIT License - feel free to use, modify, and distribute it.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contact
+ 
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/amrita-srivastava10/)
