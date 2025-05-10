@@ -2,9 +2,22 @@
 
 **Welding Website Template** is a free, responsive, and modern template designed for welding shops, metalwork businesses, and industrial websites. Built using **React.js** and **Bootstrap 5**, this template features a professional layout, interactive UI components, and a responsive design suitable for all devices.
 
-## Available Scripts
+##  Folder Structure
 
-In the project directory, you can run:
+The project folder structure is as follows:
+
+weldork/
+├── public/
+│ └── index.html # Main HTML file for the application
+├── src/
+│ ├── components/ # Reusable React components
+│ ├── pages/ # Contains all pages of the website
+│ ├── assets/ # Images and other static assets
+│ ├── App.js # Main React component
+│ ├── index.js # Entry point for the React app
+├── .gitignore # Git ignore file for unnecessary files
+├── package.json # Project dependencies and configurations
+├── README.md # Project documentation (this file)
 
 ### `npm start`
 
