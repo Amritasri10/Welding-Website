@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Welding Website Template - React & Bootstrap 5
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Welding Website Template** is a free, responsive, and modern template designed for welding shops, metalwork businesses, and industrial websites. Built using **React.js** and **Bootstrap 5**, this template features a professional layout, interactive UI components, and a responsive design suitable for all devices.
 
 ## Available Scripts
 
