@@ -6,8 +6,8 @@
 
 The project folder structure is as follows:
 
-weldork/
-├── public/
+`weldork/`
+`├── public/`
 │ └── index.html # Main HTML file for the application
 ├── src/
 │ ├── components/ # Reusable React components
